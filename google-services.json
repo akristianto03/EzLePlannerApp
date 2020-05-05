@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056303691702",
+    "firebase_url": "https://ezleplanner.firebaseio.com",
+    "project_id": "ezleplanner",
+    "storage_bucket": "ezleplanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056303691702:android:8e1e50daef59885441f317",
+        "android_client_info": {
+          "package_name": "com.uc.ezleplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056303691702-gq1g32kcs4cf8r7m1e9q1vnq17a0oh1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uc.ezleplanner",
+            "certificate_hash": "f124e5bf8f60dff0b4b91508130fa9a6999f35cd"
+          }
+        },
+        {
+          "client_id": "1056303691702-i55uk5ce3st03q6k5i1vr5rb0d542jv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBsbfCRnARGtvE_UYq08M7tDXbvWcsAEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056303691702-i55uk5ce3st03q6k5i1vr5rb0d542jv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
